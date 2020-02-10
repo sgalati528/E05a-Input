@@ -1,5 +1,8 @@
 # E05-Input
 
+Exercies 05a-Input Samantha Galati 
+adding mouse location coordinates and player movement
+
 This is an exercise to help you become accustomed to how Godot treats user input.
 
 Instructions are as follows:
